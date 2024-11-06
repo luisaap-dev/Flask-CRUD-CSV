@@ -1,0 +1,11 @@
+﻿id,nombre,apellidos,email,telefono,sexo,direccion,ciudad,pais
+1,Juan,Pérez,juan.perez@example.com,1122334455,M,Av. Libertador 123,Buenos Aires,Argentina
+2,Ana,González,ana.gonzalez@example.com,2233445566,F,Calle Mayor 456,Madrid,España
+3,Carlos,Rodríguez,carlos.rodriguez@example.com,3344556677,M,Calle Falsa 789,Barcelona,España
+4,Maria,López,maria.lopez@example.com,4455667788,F,Avenida de la Paz 101,Bogotá,Colombia
+5,Luis,Hernández,luis.hernandez@example.com,5566778899,M,Calle 2, Ciudad de México,México
+6,Elena,Moreno,elena.moreno@example.com,6677889900,F,Calle del Sol 12,Sevilla,España
+7,Pedro,Fernández,pedro.fernandez@example.com,7788990011,M,Calle del Río 34,Valencia,España
+8,Lina,Martínez,lina.martinez@example.com,8899001122,F,Av. de los Álamos 56,Medellín,Colombia
+9,Javier,Garcia,javier.garcia@example.com,9900112233,M,Calle Real 78,Lima,Perú
+10,Patricia,Sánchez,patricia.sanchez@example.com,1234567890,F,Plaza Mayor 9,Quito,Ecuador
